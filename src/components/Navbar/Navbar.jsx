@@ -2,7 +2,7 @@
 import "./Navbar.css"
 const Navbar = () => {
     return (
-        <div className="flex justify-between items-center">
+        <div className="flex justify-between items-center p-4">
             <div>
                 <a className="text-2xl font-semibold" href="/">GPT-3</a>
             </div>
