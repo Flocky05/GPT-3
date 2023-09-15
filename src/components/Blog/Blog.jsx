@@ -2,12 +2,12 @@
 
 const Blog = () => {
     return (
-        <div className="bg-blue-900 m-10 p-20 min-h-screen">
+        <div className="bg-blue-900 m-20 p-20 min-h-screen">
             <div className=" flex  justify-center items-center">
                 <h3 className="text-2xl font-semibold w-2/4">What is GPT-3</h3>
                 <p>We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.</p>
             </div>
-            <div className="flex justify-between py-10">
+            <div className="flex justify-between items-center py-10">
                 <div>
                     <h2>The possibilities are beyond </h2>
                     <h2>your imagination</h2>

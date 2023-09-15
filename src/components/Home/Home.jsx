@@ -5,7 +5,7 @@ import Add from "../Add/Add";
 import "./Home.css"
 const Home = () => {
     return (
-        <div>
+        <div className="m-20">
                     <div className="grid grid-cols-2 items-center">
                 <div className="p-8">
                     <div className="">
