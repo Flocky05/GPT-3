@@ -1,9 +1,9 @@
 
-
+import img from "../../assets/pageNotFound/404(3).avif"
 const SignIn = () => {
     return (
-        <div>
-           <h3>This is singin </h3> 
+        <div className="grid grid-cols-1 justify-items-center">
+           <img className="p-10 " src={img} alt="" />
         </div>
     );
 };

@@ -2,6 +2,7 @@
 import img from "../../assets/ai.png"
 import img2 from "../../assets/people.png"
 import Add from "../Add/Add";
+import CaseStudies from "../CaseStudies/CaseStudies";
 import "./Home.css"
 const Home = () => {
     return (
@@ -28,6 +29,7 @@ const Home = () => {
                 </div>
             </div>
             <Add></Add>
+            <CaseStudies></CaseStudies>
         </div>
     );
 };
