@@ -1,0 +1,8 @@
+h2{
+            font-size: 40px;
+            font-weight: bold;
+			font-family: Arial, Helvetica, sans-serif;
+			background: linear-gradient(to right, rgb(177, 52, 235) , rgb(254, 143, 53));
+			-webkit-text-fill-color: transparent;
+			-webkit-background-clip: text;
+}
