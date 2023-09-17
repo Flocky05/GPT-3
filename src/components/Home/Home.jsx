@@ -6,7 +6,7 @@ import CaseStudies from "../CaseStudies/CaseStudies";
 import "./Home.css"
 const Home = () => {
     return (
-        <div className="m-20">
+        <div className="m-10 lg:m-20">
                     <div className="grid grid-cols-1 lg:grid-cols-2 items-center">
                 <div className="lg:p-8">
                     <div>

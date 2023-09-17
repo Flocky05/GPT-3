@@ -4,8 +4,8 @@ import Offer from "../Offer/Offer";
 const CaseStudies = () => {
     return (
         <div>
-            <div className="lg:flex justify-between items-center m-10 lg:m-20 min-h-screen">
-            <img className="w-2/4" src={img} alt="" />
+            <div className="lg:flex justify-between items-center m-6 lg:m-20 min-h-screen">
+            <img className="w-full lg:w-2/4" src={img} alt="" />
             <div className="p-4">
                     <p className="text-blue-500 py-8">Request Early Access to Get Started</p>
                     <div className="py-8">
