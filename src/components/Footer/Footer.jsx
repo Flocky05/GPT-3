@@ -8,7 +8,7 @@ const Footer = () => {
                 <h2 className="text-4xl text-center ">future before others</h2>
                 <button className="px-8 py-3 border text-white m-20 hover:bg-orange-600">Request Early access</button>
             </div>
-            <div className="grid grid-cols-4 px-20">
+            <div className="grid grid-cols-2 lg:grid-cols-4 px-20 p-10 ">
                 <div>
                     <a className="text-3xl font-bold" href="/">GPT-3</a>
                     <p className="py-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, sequi.</p>
