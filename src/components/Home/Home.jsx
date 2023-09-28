@@ -9,12 +9,12 @@ const Home = () => {
         <div className="m-10 lg:m-20">
                     <div className="grid grid-cols-1 lg:grid-cols-2 items-center">
                 <div className="lg:p-8">
-                    <div>
+                    <div className="text-center lg:text-start">
                         <h2>Let’s Build Something</h2>
                         <h2>amazing with GPT-3</h2>
                         <h2>OpenAI</h2>
                     </div>
-                    <p className="text-lg">Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+                    <p className="text-lg text-center lg:text-start">Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
                     <div className=" relative py-4">
                         <input className="bg-blue-950  rounded-md  lg:w-3/5 py-3 p-2" type="text" placeholder="Your Email Address" />
                         <button className="bg-orange-500 hover:bg-orange-700 py-3 px-6 lg:px-10 absolut -mr-40 lg:-ml-36 rounded-lg"> Get Start</button>
