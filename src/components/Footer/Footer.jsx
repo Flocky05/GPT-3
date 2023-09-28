@@ -2,11 +2,11 @@
 
 const Footer = () => {
     return (
-        <div className="bg-[#031B34]">
-            <div className="p-20 text-center">
+        <div className="bg-[#031B34] w-full">
+            <div className="flex flex-col items-center p-10 lg:p-20 text-center">
                 <h2 className="text-4xl text-center font-semibold">Do you want to step in to the </h2>
                 <h2 className="text-4xl text-center ">future before others</h2>
-                <button className="px-8 py-3 border text-white m-20 hover:bg-orange-600">Request Early access</button>
+                <button className="px-8 py-3 border w-3/5 lg:w-1/4 text-white m-10 lg:m-20 hover:bg-orange-600">Request Early access</button>
             </div>
             <div className="grid grid-cols-2 lg:grid-cols-4 px-20 p-10 ">
                 <div>
