@@ -3,6 +3,7 @@ import img2 from "../../assets/blog02.png"
 import img3 from "../../assets/blog03.png"
 import img4 from "../../assets/blog04.png"
 import img5 from "../../assets/blog05.png"
+import NewProperty from "../NewProperty/NewProperty"
 
 const Library = () => {
     return (
@@ -54,6 +55,10 @@ const Library = () => {
                     </div>
                 </div>
             </div>
+           </div>
+           <div>
+                <h2 className="text-center p-5">Machine Learing Section</h2>
+                <NewProperty></NewProperty>
            </div>
         </div>
     );
