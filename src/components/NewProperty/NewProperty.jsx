@@ -4,7 +4,7 @@ import img3 from "../../assets/Ml/Ml3.jpg"
 
 const NewProperty = () => {
     return (
-        <div className="grid grid-cols-3 justify-center items-center gap-10 p-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-10 p-8">
             <div className="p-4 bg-yellow-100 border">
                 <img className="object-cover h-80" src={img1} alt="" />
                 <div>
